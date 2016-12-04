@@ -3,7 +3,7 @@
 # Nero
 
 - __Lead:__ Mike Lindenau
-- __Version:__ <%= 0.1.0 %>
+- __Version:__ 0.1.0
 
 Nero is a utility belt for creating a microservice based system using seneca.js.
 
