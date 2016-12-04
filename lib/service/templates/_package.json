@@ -1,5 +1,5 @@
 {
-    "name": "<%= name %>",
+    "name": "<%= folderName %>",
     "version": "<%= version %>",
     "scripts": {
       "start": "node srv/start.js",
